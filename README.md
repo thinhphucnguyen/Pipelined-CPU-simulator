@@ -5,7 +5,11 @@ Cycle-accurate simulation of a classic **5-stage pipelined processor** implement
 The simulator models realistic pipeline behavior including data hazards, forwarding paths, and control-flow handling, following a standard MIPS-style datapath.
 
 ---
+## Pipeline Datapath
 
+![5-stage pipeline diagram](misc/PipelineBanner.png)
+
+---
 ## Architecture
 
 The processor is divided into five pipeline stages:
