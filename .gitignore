@@ -1,0 +1,12 @@
+# build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+
+# binaries
+pipeline
+
+# macOS
+.DS_Store
